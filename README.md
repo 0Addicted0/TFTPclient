@@ -1,7 +1,7 @@
 # TFTPclient
 computer network experiment
 
-![image](https://user-images.githubusercontent.com/77565097/205982654-081087d2-df71-4a53-a9ed-55bfa0edd8e1.png)
+![1](https://user-images.githubusercontent.com/77565097/205983671-4e807619-3ea1-4030-af92-d7aa9e0e86c4.png)
 
 ###
 * user defined timeout and retransmission counter
